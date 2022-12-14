@@ -1,4 +1,4 @@
-#### Hi there 👋 
+## Hi there 👋 
 
 I am Morten, a frontend developer from Norway. i create responsive webpages using HTML, CSS, JavaScript and Bootstrap. I also enjoy designing and planning my projects using Adobe XD and Trello. 
 
